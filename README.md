@@ -14,7 +14,11 @@ However, since the target was written in VisualStudio2010 for Rhino4, I have rew
 
 https://www.codeproject.com/Articles/1091178/Managed-Extensibility-Framework-MEF-Plugin-for-Rhi
 
+## LICENSE
+
 The original article was published under [The Code Project Open License (CPOL) 1.02](https://www.codeproject.com/info/cpol10.aspx).
+
+This repository is under [MIT License](https://github.com/hrntsm/MEF-for-Rhinocoros-Plugin/blob/main/LICENSE)
 
 ## How to use
 
