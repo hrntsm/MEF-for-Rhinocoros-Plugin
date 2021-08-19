@@ -1,16 +1,10 @@
-﻿using System.Reflection;
-using System;
-using System.Collections.Generic;
+﻿using System.ComponentModel.Composition;
+using System.ComponentModel.Composition.Hosting;
+using System.Reflection;
 using Rhino;
 using Rhino.Commands;
-using Rhino.Geometry;
-using Rhino.Input;
 using Rhino.Input.Custom;
-
 using RhinoPluginContractInterface;
-
-using System.ComponentModel.Composition;
-using System.ComponentModel.Composition.Hosting;
 
 namespace RhinoPluginLoader
 {
